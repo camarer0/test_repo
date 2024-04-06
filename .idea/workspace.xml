@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fed24c5-5df4-41a1-9f0f-698260b03288" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/acrchitecture.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_theme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rules.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/quality_attributes.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs.md" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acrchitecture.md" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/acrchitecture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_theme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/project_theme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.md" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/requirements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules.md" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/rules.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +46,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Docs" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -62,6 +68,7 @@
       <updated>1709910503268</updated>
       <workItem from="1709910505399" duration="2631000" />
       <workItem from="1709963039291" duration="2304000" />
+      <workItem from="1712341561267" duration="2684000" />
     </task>
     <servers />
   </component>
