@@ -39,4 +39,3 @@ jobs:
     - name: Test run
       run: |
         timeout 30 python bot_horoscope.py
-      continue-on-error: true
