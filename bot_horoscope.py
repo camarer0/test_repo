@@ -1,3 +1,5 @@
+import time
+
 import telebot
 import requests
 from bs4 import BeautifulSoup
@@ -118,4 +120,12 @@ def echo_all(message):
 
 times = []
 
-bot.infinity_polling()
+
+class TimeoutException:
+    pass
+
+
+try:
+    bot.infinity_polling()
+except TimeoutException:
+    print("Timeout reached, but that's okay.")
