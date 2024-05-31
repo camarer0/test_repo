@@ -39,3 +39,4 @@ jobs:
     - name: Test run
       run: |
         python bot_horoscope.py
+      timeout-minutes: 1
